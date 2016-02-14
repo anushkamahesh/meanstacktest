@@ -1,0 +1,25 @@
+{
+  "name": "mean",
+  "description": "test app",
+  "main": "index.js",
+  "authors": [
+    "anushkamahesh"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/anushkamahesh/meanstacktest",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "toastr": "^2.1.2",
+    "angular-resource": "^1.5.0",
+    "angular-route": "^1.5.0"
+  }
+}
